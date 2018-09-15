@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="FeatureImportSplitter" >
+<osm version="0.6"  generator="FeatureImportSplitter" >
 <node id="-38" lat="34.79090823" lon="-82.020695753" visible="true"><tag k="addr:housenumber" v="8481" /><tag k="fixme" v=" ** Check before uploading ** " /><tag k="addr:city" v="Woodruff" /><tag k="tower:construction" v="lattice" /><tag k="man_made" v="mast" /><tag k="addr:state" v="SC" /><tag k="height" v="230'" /><tag k="postal_code" v="29388" /><tag k="start_date" v="1999" /><tag k="addr:street" v="Highway 221" /></node>
 <node id="-39" lat="34.74904021" lon="-82.04672937" visible="true"><tag k="addr:housenumber" v="804" /><tag k="fixme" v=" ** Check before uploading ** " /><tag k="addr:city" v="Woodruff" /><tag k="man_made" v="mast" /><tag k="addr:state" v="SC" /><tag k="postal_code" v="29388" /><tag k="addr:street" v="North Main Street" /></node>
 <node id="-40" lat="34.749206251" lon="-81.95010254" visible="true"><tag k="addr:housenumber" v="4050" /><tag k="fixme" v=" ** Check before uploading ** " /><tag k="addr:city" v="Roebuck" /><tag k="man_made" v="mast" /><tag k="addr:state" v="SC" /><tag k="height" v="300'" /><tag k="postal_code" v="29376" /><tag k="start_date" v="1998" /><tag k="addr:street" v="Walnut Grove Road" /></node>
