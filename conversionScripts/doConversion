@@ -1,0 +1,2 @@
+rm "cellTowers.osm"
+python ../../ogr2osm/ogr2osm.py "cell towers.dbf" -t FilterSpartanburgCellTowers.py -o cellTowers.osm

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="FeatureImportSplitter" >
+<node id="-46" lat="34.600612361" lon="-81.884759988" visible="true"><tag k="addr:housenumber" v="1601" /><tag k="fixme" v=" ** Check before uploading ** " /><tag k="addr:city" v="Enoree" /><tag k="tower:construction" v="lattice" /><tag k="man_made" v="mast" /><tag k="addr:state" v="SC" /><tag k="height" v="225'" /><tag k="postal_code" v="29335" /><tag k="start_date" v="1996" /><tag k="addr:street" v="Horseshoe Falls Road" /></node>
+</osm>
