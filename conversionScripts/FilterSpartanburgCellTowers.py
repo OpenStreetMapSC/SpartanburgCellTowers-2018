@@ -168,12 +168,16 @@ def filterTags(attrs):
         typ = attrs['TYPE'].strip()
         if typ == 'LATTICE':
             tags['tower:construction'] = 'lattice'
+            tags['tower:type'] = 'communication'
         elif typ == 'GUYED':
             tags['tower:construction'] = 'guyed'
+            tags['tower:type'] = 'communication'
         elif typ == 'MONOPOLE':
             tags['tower:construction'] = 'monopole'
+            tags['tower:type'] = 'communication'
         elif typ == 'SS Tower':
             tags['tower:construction'] = 'freestanding'
+            tags['tower:type'] = 'communication'
         elif typ == 'WATER':
             tags['man_made'] = 'water_tower'
 
